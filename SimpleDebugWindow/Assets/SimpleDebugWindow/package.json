@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.simple-debug-window",
+    "displayName": "Simple Debug Window",
+    "version": "0.1.0",             
+    "unity": "2022.3",
+    "description": "Simple debug windows for Unity. The window is drawn in OnGUI.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
